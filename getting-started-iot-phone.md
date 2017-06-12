@@ -7,7 +7,7 @@ lastupdated: "2017-04-18"
 ---
 
 {:shortdesc: .shortdesc}
-{:new_window: target="\_blank"}
+{:new_window: target="_blank"}
 {:codeblock: .codeblock}
 {:pre: .pre}
 {:screen: .screen}
@@ -89,9 +89,9 @@ cf push my-iot-phone-app --no-start
 cf bind-service my-iot-phone-app iotp-for-phone
   ```
   {: pre}
-2. Start your application for the binding to take effect.
+2. Restage your application for the binding to take effect.
   ```
-cf start my-iot-phone-app
+cf restage my-iot-phone-app
   ```
   {: pre}
 
