@@ -4,11 +4,11 @@
 {: .toc subcollection="iot-starter" audience="boilerplate" href="/docs/IoT-starter/iot500.html" path="IoT-starter"}
 IoT Starter
 
-  {: .navgroup id="learn"}
+    {: .navgroup id="learn"}
     iot500.md
-  {: .navgroup-end}
+    {: .navgroup-end}
 
-  {: .navgroup id="reference"}
+    {: .navgroup id="reference"}
     [Watson IoT Platform API Documentation](https://docs.internetofthings.ibmcloud.com/swagger/v0002.html#/)
 
     {: .topicgroup}
@@ -23,9 +23,9 @@ IoT Starter
     Related documentation
         [Watson IoT Platform documentation](https://www.bluemix.net/docs/services/IoT/iotplatform_overview.html)
         [Node-RED starter documentation](https://console.ng.bluemix.net/docs/starters/Node-RED/nodered.html)
-  {: .navgroup-end}
+    {: .navgroup-end}
 
-  {: .navgroup id="help"}
+    {: .navgroup id="help"}
     [Developer support forum](https://www.ibm.com/developerworks/connect/iot/)
     [Stack overflow support forum](http://stackoverflow.com/questions/tagged/ibm-bluemix)
-  {: .navgroup-end}
+    {: .navgroup-end}
