@@ -1,7 +1,7 @@
 {:navgroup: .navgroup}
 {:topicgroup: .topicgroup}
 
-{: .toc subcollection="IoT-starter" category="starterkits" audience="boilerplate" href="/docs/IoT-starter/iot500.html" path="IoT-starter"}
+{: .toc subcollection="IoT-starter" category="starterkits" audience="service" href="/docs/IoT-starter/iot500.html" path="IoT-starter"}
 IoT Starter
 
     {: .navgroup id="learn"}
